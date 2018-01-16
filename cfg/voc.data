@@ -1,6 +1,6 @@
-classes= 4
-train  = /devdata/darknet/trainImagePath.txt
-valid  = /devdata/darknet/validateImagePath.txt
-names = /devdata/darknet/data/voc.names
-backup = /devdata/darknet/backup/
+classes= 1
+train  = /devdata/darknet_truck/trainImagePath.txt
+valid  = /devdata/darknet_truck/validateImagePath.txt
+names = /devdata/darknet_truck/data/voc.names
+backup = /devdata/darknet_truck/backup/
 
