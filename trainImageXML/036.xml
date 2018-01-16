@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainImage</folder>
+	<filename>036.jpg</filename>
+	<path>/devdata/darknet/trainImage/036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>56</ymin>
+			<xmax>275</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
