@@ -8,7 +8,7 @@
 ```
 ##### 2.准备数据,打标签
 ```
-* 使用[labelImg](https://github.com/tzutalin/labelImg)对数据进行标记。
+* 使用 [labelImg](https://github.com/tzutalin/labelImg) 对数据进行标记。
 ```
 
 ##### 3.建立训练和验证数据文件夹/提取图片名称
@@ -55,7 +55,7 @@ classes = N （N为自己的分类数）
 ```
 ##### 6.下载预训练卷积权重文件darknet19_448.conv.23
 ```
-在该[卷积权重](http://pjreddie.com/media/files/darknet19_448.conv.23)文件的基础上做进一步的参数调整, 下载完成之后保存在cfg目录下。
+在该 [卷积权重](http://pjreddie.com/media/files/darknet19_448.conv.23) 文件的基础上做进一步的参数调整, 下载完成之后保存在cfg目录下。
 ```
 
 ##### 7.train image
