@@ -1,0 +1,6 @@
+classes= 4
+train  = /devdata/darknet/trainImagePath.txt
+valid  = /devdata/darknet/validateImagePath.txt
+names = /devdata/darknet/data/voc.names
+backup = /devdata/darknet/backup/
+
