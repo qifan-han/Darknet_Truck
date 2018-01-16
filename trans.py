@@ -9,7 +9,7 @@ import cv2
 
 sets=[('trainImage', 'train'), ('validateImage', 'validate')]
 
-classes = ["truck", "car", "bus", "person"]
+classes = ["truck", "person", "car", "bus"]
 
 def convert(size, box):
     dw = 1./size[0]
