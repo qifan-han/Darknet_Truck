@@ -6,7 +6,7 @@
 * export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 如果是CPU请忽略此操作。
 ```
-##### 2.准备数据,打标签
+##### 2.准备数据/打标签
 ```
 * 使用 [labelImg](https://github.com/tzutalin/labelImg) 对数据进行标记。
 ```
